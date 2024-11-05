@@ -28,10 +28,15 @@ The initial phase of the Data Cleaning and preparations, i perform the following
 ### EXPLORATORY DATA ANALYSIS
 EDA involved the exloring of the data to answer some questions about the data such as;
 1. Total sales by product,region,and month.
-2. use excel formular to calculate metrics such as average sales per product and total revenue by region.
+2. Excel formular to calculate metrics such as average sales per product and total revenue by region.
 
 ### DATA ANALYSIS
 This is where I used some basicc lines of code while using MYSQL WORKBENCH.I also used excel functions while using Excel.
+```SQL
+SELECT Region,COUNT(`CustomerName`) AS `TOTAL CUSTOMERS`
+FROM `capstone project`.`sales data csv`
+group by 1;
+
 
 
 
