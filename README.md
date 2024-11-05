@@ -52,6 +52,7 @@ group by 1;
 ![VISUALIZATION 2](https://github.com/user-attachments/assets/c4d2e781-f18e-41e1-bb14-3d69389f9583)
 
 
+![SALESDATASET VISUAL](https://github.com/user-attachments/assets/fa1b68f1-6248-46ff-b6c0-386aa8fcccc3)
 
 
 
