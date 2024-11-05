@@ -33,9 +33,10 @@ EDA involved the exloring of the data to answer some questions about the data su
 ### DATA ANALYSIS
 This is where I used some basicc lines of code while using MYSQL WORKBENCH.I also used excel functions while using Excel.
 ```SQL
-SELECT Region,COUNT(`CustomerName`) AS `TOTAL CUSTOMERS`
-FROM `capstone project`.`sales data csv`
+SELECT Region,COUNT(`Customer Id`)AS `TOTAL SALES` 
+FROM lita_project.salesdata
 group by 1;
+```
 
 
 
