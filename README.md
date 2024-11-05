@@ -1,7 +1,7 @@
 # LITA_CAPSTONE_PROJECT
 This is where I documented  my capstone project while learning Data Analysis with The Incubator Hub
 
-### PROJECT TITLE: SALES PERFORMANCE ANALYSIS
+### PROJECT TITLE: SALES PERFORMANCE ANALYSIS AND CUSTOMERS DATA
 
 
 ### PROJECT OVERVIEW
@@ -21,9 +21,10 @@ The primary source of data used here is Saledata.xls and this was dpwnloaded fro
 The initial phase of the Data Cleaning and preparations, i perform the following
 1. Data loading and inspection
 2. Handling missing varaiables
-3. Removed duplicates( Data Cleaning)
-4. Check blank spaces( Data Cleaning)
-5. Data Formatting
+   
+4. Removed duplicates( Data Cleaning)
+5. Check blank spaces( Data Cleaning)
+6. Data Formatting
    
 ### EXPLORATORY DATA ANALYSIS
 EDA involved the exloring of the data to answer some questions about the data such as;
@@ -32,11 +33,21 @@ EDA involved the exloring of the data to answer some questions about the data su
 
 ### DATA ANALYSIS
 This is where I used some basicc lines of code while using MYSQL WORKBENCH.I also used excel functions while using Excel.
-```SQL
+```SQL(SALESDATA)
 SELECT Region,COUNT(`Customer Id`)AS `TOTAL SALES` 
 FROM lita_project.salesdata
 group by 1;
 ```
+
+```SQL(CUSTOMERDATA)
+SELECT Region,COUNT(`CustomerName`) AS `TOTAL CUSTOMERS`
+FROM `capstone project`.`customers data csv`
+group by 1;
+```
+
+### DATA VISUALIZATION
+
+![image](https://github.com/user-attachments/assets/fc1481fd-baf2-4aa4-88fd-f1975fc33ee4)
 
 
 
