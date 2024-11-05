@@ -1,7 +1,7 @@
 # LITA_CAPSTONE_PROJECT
 This is where I documented  my capstone project while learning Data Analysis with The Incubator Hub
 
-### PROJECT TITLE: SALES PERFORMANCE ANALYSIS AND CUSTOMERS DATA
+### PROJECT TITLE: SALES PERFORMANCE ANALYSIS AND CUSTOMERS DATa
 
 
 ### PROJECT OVERVIEW
