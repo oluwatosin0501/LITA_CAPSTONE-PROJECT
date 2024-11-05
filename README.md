@@ -1,7 +1,7 @@
 # LITA_CAPSTONE_PROJECT
 This is where I documented  my capstone project while learning Data Analysis with The Incubator Hub
 
-### Project Title: SALES PERFORMANCE ANALYSIS
+### PROJECT TITLE: SALES PERFORMANCE ANALYSIS
 
 
 ### PROJECT OVERVIEW
@@ -9,5 +9,13 @@ This Datab Analysis project aims to generate insight into the sales performance 
 
 ### DATA SOURCES
 The primary source of data used here is Saledata.xls and this was dpwnloaded from LITA LMS.Data can be freely downloaded from online source such as kaggle,FRED,Tableau or any other repository site.
+
+
+### TOOLS USED
+-MICROSOFT EXCEL for Data Cleaning and Pivot Table
+-SQL( STRUCTURED QUERY LANGUAGE) for Quering Data
+-POWER BI for visualisation
+-GITHUB for Portfolio Building
+
 
 
