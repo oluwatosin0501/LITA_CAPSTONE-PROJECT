@@ -8,7 +8,7 @@ This is where I documented  my capstone project while learning Data Analysis wit
 This Datab Analysis project aims to generate insight into the sales performance projectover the past year.By analysing the various parametersin the data  received to seek insight to make reasonable decisions which then enable us to create visualiztion around our data from the insight gotten.
 
 ### DATA SOURCES
-The primary source of data used here is Saledata.xls and this was dpwnloaded from LITA LMS.Data can be freely downloaded from online source such as kaggle,FRED,Tableau or any other repository site.
+The primary source of data used here is Saledata.xls and this was downloaded from LITA LMS.Data can be freely downloaded from online source such as kaggle,FRED,Tableau or any other repository site.
 
 
 ### TOOLS USED
@@ -49,6 +49,7 @@ group by 1;
 
 ![image](https://github.com/user-attachments/assets/fc1481fd-baf2-4aa4-88fd-f1975fc33ee4)
 
+![VISUALIZATION 2](https://github.com/user-attachments/assets/c4d2e781-f18e-41e1-bb14-3d69389f9583)
 
 
 
